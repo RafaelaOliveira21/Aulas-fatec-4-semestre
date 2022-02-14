@@ -15,7 +15,7 @@ console.log (situacao)
 */
 
 // ***************************************************
-//       OPERADOR TERNÁRIO
+//          OPERADOR TERNÁRIO
 // ***************************************************
 
 situacao = media >= 6 ? 'Aprovado' : 'Reprovado'

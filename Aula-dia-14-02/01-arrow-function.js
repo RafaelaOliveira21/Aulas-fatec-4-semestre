@@ -80,3 +80,4 @@ const fatorial2 = n => {
 }
 
 console.log (fatorial2 (5))
+

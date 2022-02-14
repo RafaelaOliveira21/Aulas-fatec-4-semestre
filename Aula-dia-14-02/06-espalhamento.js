@@ -6,7 +6,7 @@ console.log ({minimo, maximo})
 let nums = [2, -7, 4, 0]
 
 // A sintaxe de espalhamento é capaz de "desempacotar" um
-// vetor em uma lista de valores avulsos
+// vetor em uma lista de valores avulsos.
 
 minimo = Math.min (...nums)
 maximo = Math.max (...nums)

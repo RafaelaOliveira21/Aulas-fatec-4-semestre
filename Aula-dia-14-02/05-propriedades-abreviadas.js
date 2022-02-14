@@ -9,7 +9,7 @@ let password = '123456@'
 
 // Criando o objeto a partir das variáveis
 // Observe que os nomes das propriedades são IGUAIS aos nomes
-// das variáveis correspondentes
+// das variáveis correspondentes.
 
 /*  let user = {
     username: username,
@@ -35,12 +35,12 @@ let user = {
 console.log (user)
 
 // Propriedades são muito utilizadas para depuração, quando precisamos
-// saber, além do valor da variável, também seu nome
+// saber, além do valor da variável, também seu nome.
 
 console.log (username, group)
 
 // Transformando as variáveis avulsas em um objeto para que o nome
-// das variáveis também apareçam na depuração
+// das variáveis também apareçam na depuração.
 
 console.log({username, group})
 

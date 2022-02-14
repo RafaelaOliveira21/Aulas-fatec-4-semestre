@@ -34,13 +34,13 @@ let user = {
 
 console.log (user)
 
-// Porporiedades são muito utilizadas para depuração, quando precisamos
+// Propriedades são muito utilizadas para depuração, quando precisamos
 // saber, além do valor da variável, também seu nome
 
 console.log (username, group)
 
 // Transformando as variáveis avulsas em um objeto para que o nome
-// das variáveis também aparecam na depuração
+// das variáveis também apareçam na depuração
 
 console.log({username, group})
 

@@ -35,7 +35,7 @@ Atividades:
 
 2º Bimestre
 -Fichamento artigo (TG)
--FIchamento relatório projeto/monografia
+-Fichamento relatório projeto/monografia
  projeto/monografia (TG)
 -Redação de referência teórica (Contextualização do problema)
 

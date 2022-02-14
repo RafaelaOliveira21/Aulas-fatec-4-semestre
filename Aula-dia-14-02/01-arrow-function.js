@@ -80,16 +80,3 @@ const fatorial2 = n => {
 }
 
 console.log (fatorial2 (5))
-
-let media = 7.2 
-let situacao
-
-if (media >= 6) { // Condição
-    situacao = 'Aprovado' // Ação se verdadeiro
-}
-
-else {
-    situacao = 'Reprovado' // Ação se falso
-}
-
-console.log (situacao)
